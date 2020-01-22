@@ -13,7 +13,7 @@ Hi, I am known as Annie, studying graduate program in [Northwest Missouri State 
 * It is snowing today!
 * We learned how to use Markdown! yay :D
 
-###Caution
+### Caution
 
 1. Be careful while walking, chances of tripping are high due to rainfall.
 2. Stay warm and save your precious fingers and toes from frostbite.
