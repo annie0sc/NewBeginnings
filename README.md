@@ -9,6 +9,7 @@ Hi, I'm Annie, studying ACS graduate program in [Northwest Missouri State Univer
 ![School logo](https://upload.wikimedia.org/wikipedia/en/3/32/NW_Missouri_State_seal.png)
 
 One of the well known stuctures in the university is The Bell Tower:
+
 ![Bell Tower Exhibit](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nwmsu-college.jpg/320px-Nwmsu-college.jpg)
 
 ## Fun Facts
