@@ -15,9 +15,12 @@ Typically, women in Africa walk hundreds of miles to get water. The water that t
 Clean water means many things, better hygiene, stronger immunity, sustainable development but this time it meant 'beautiful'. 
 
 ![Helen Apio](http://www.charitywater.org/stories/images/uganda_helen_image1.jpg)
+
 Image 2: http://www.charitywater.org/stories/images/uganda_helen_image1.jpg
 
 I highly recommend everyone to read [Helen Apio's story](https://archive.charitywater.org/stories/i-feel-beautiful-for-the-first-time/).
+
+
 Educate others about the importance of clean water. Don't leave them in dark. Spread awareness.
 
 
@@ -39,4 +42,4 @@ And...
 ### References
 1. The direct link to the website is given as follows: [charity: water](https://www.charitywater.org/).
 1. More information about the function of water in our body is available [here](https://www.usgs.gov/special-topic/water-science-school/science/water-you-water-and-human-body?qt-science_center_objects=0#qt-science_center_objects).
-1. Further information on [Scott Harrison](https://en.wikipedia.org/wiki/Scott_Harrison_(charity_founder)) and [charity: water](https://en.wikipedia.org/wiki/Charity:_Water#cite_note-gelles-1).
+1. Wiki links on [Scott Harrison](https://en.wikipedia.org/wiki/Scott_Harrison_(charity_founder)) and [charity: water](https://en.wikipedia.org/wiki/Charity:_Water#cite_note-gelles-1).
