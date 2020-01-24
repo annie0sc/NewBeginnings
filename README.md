@@ -4,9 +4,9 @@ Hi, I'm Annie, studying the ACS graduate program in [Northwest Missouri State Un
 
 A few days back, I had the patience to watch a YouTube advertisement on charity: water and it got me thinking why is no one talking about drinking water. Topics like fitness and skincare are dominating the market so it's only appropriate to shed some light on something that makes up 60% of our body.
 
-## Charity: water
+## charity: water
 
-[Charity: water](https://www.charitywater.org/) is a non-profit organization founded by [Scott_Harrison](https://twitter.com/scottharrison) in 2006. They strive to build wells in rural Africa and Asia; as of now, they have built 38,000 wells that provide clean water to millions of people. Once the wells are established, they are maintained by local staff who are trained by the organization in educating the villagers about hygiene and healthcare.
+[charity: water](https://www.charitywater.org/) is a non-profit organization founded by [Scott_Harrison](https://twitter.com/scottharrison) in 2006. They strive to build wells in rural Africa and Asia; as of now, they have built 38,000 wells that provide clean water to millions of people. Once the wells are established, they are maintained by local staff who are trained by the organization in educating the villagers about hygiene and healthcare.
 
 ![Scott Harrison](https://images.ctfassets.net/2w85ks0ylymt/5XZ0q1V9BOBqaVkZsNrjvP/9d2bd0ff78d117d5e3dc40ece6c30b3f/ScottSpeaking-crop-resized.jpg?w=1200)
 Image 1: https://images.ctfassets.net/2w85ks0ylymt/5XZ0q1V9BOBqaVkZsNrjvP/9d2bd0ff78d117d5e3dc40ece6c30b3f/ScottSpeaking-crop-resized.jpg?w=1200
@@ -15,7 +15,6 @@ Typically, women in Africa walk hundreds of miles to get water. The water that t
 Clean water means many things, better hygiene, stronger immunity, sustainable development but this time it meant 'beautiful'. 
 
 ![Helen Apio](http://www.charitywater.org/stories/images/uganda_helen_image1.jpg)
-
 Image 2: http://www.charitywater.org/stories/images/uganda_helen_image1.jpg
 
 I highly recommend everyone to read [Helen Apio's story](https://archive.charitywater.org/stories/i-feel-beautiful-for-the-first-time/).
@@ -35,9 +34,9 @@ And...
 
 ## Caution
 
-1. Be careful while walking, chances of tripping are high due to bad footwear.
-2. Stay warm and save your precious fingers and toes from frostbite.
-3. Eat healthy food and keep boost your immunity system!
+* Be careful while walking, chances of tripping are high due to bad footwear.
+* Stay warm and save your precious fingers and toes from frostbite.
+* Eat healthy food and keep boost your immunity system!
 
 ### References
 1. The direct link to the website is given as follows: [charity: water](https://www.charitywater.org/).
