@@ -22,3 +22,6 @@ One of the well known stuctures in the university is The Bell Tower:
 1. Be careful while walking, chances of tripping are high due to rainfall.
 2. Stay warm and save your precious fingers and toes from frostbite.
 3. Eat healthy food and keep boost your immunity system!
+
+#### References
+Direct link to the website is given as follows: [charity: water](https://www.charitywater.org/donate/the-spring?utm_medium=ppc&utm_source=adwords&utm_campaign=brand_paid&gclid=Cj0KCQiAyKrxBRDHARIsAKCzn8ywqtvjgZ_Rv2m70plmlPTfjfkurMUnZMBOzdg-DYbAlbKHiZuWu-gaAm0SEALw_wcB)
