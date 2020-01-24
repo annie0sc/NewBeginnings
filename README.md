@@ -2,7 +2,7 @@
 
 Hi, I'm Annie, studying the ACS graduate program in [Northwest Missouri State University](https://www.nwmissouri.edu/). 
 
-A few days back, I had the patience to watch a YouTube advertisement on [![charity: water](https://i.ytimg.com/vi/UE9UvT5ujyg/maxresdefault.jpg)](https://www.youtube.com/watch?v=UE9UvT5ujyg) and it got me thinking why is no one talking about drinking water. Topics like fitness and skincare are dominating the market so it's only appropriate to shed some light on something that makes up 60% of our body.
+A few days back, I had the patience to watch a YouTube advertisement on charity: water and it got me thinking why is no one talking about drinking water. Topics like fitness and skincare are dominating the market so it's only appropriate to shed some light on something that makes up 60% of our body.
 
 ## Charity: water
 
@@ -23,6 +23,10 @@ Educate others about the importance of clean water. Don't leave them in dark. Sp
 
 ## Fun Facts
 
+I tried linking a video, do check their documentary out.
+[![charity: water](https://i.ytimg.com/vi/UE9UvT5ujyg/maxresdefault.jpg)](https://www.youtube.com/watch?v=UE9UvT5ujyg)
+
+And...
 * It is NOT snowing today!
 * We learned how to use Markdown! yay :D
 
